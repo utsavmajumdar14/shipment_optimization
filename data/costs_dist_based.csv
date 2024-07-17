@@ -1,0 +1,129 @@
+production,distribution,cost
+Baltimore,Columbia,1.48
+Baltimore,Indianapolis,2.06
+Baltimore,Richmond,0.42
+Baltimore,Lexington,1.72
+Baltimore,Nashville,2.29
+Baltimore,St. Louis,2.93
+Baltimore,Seattle,10.0
+Baltimore,Miami,3.01
+Baltimore,Minneapolis,3.79
+Baltimore,Phoenix,7.73
+Baltimore,Boston,1.36
+Baltimore,San Diego,8.83
+Baltimore,Houston,2.57
+Baltimore,Austin,4.94
+Baltimore,Portland,1.66
+Baltimore,Charlotte,1.26
+Cleveland,Columbia,1.62
+Cleveland,Indianapolis,1.03
+Cleveland,Richmond,1.25
+Cleveland,Lexington,0.96
+Cleveland,Nashville,1.59
+Cleveland,St. Louis,1.93
+Cleveland,Seattle,8.84
+Cleveland,Miami,3.4
+Cleveland,Minneapolis,2.6
+Cleveland,Phoenix,6.76
+Cleveland,Boston,2.29
+Cleveland,San Diego,7.85
+Cleveland,Houston,2.35
+Cleveland,Austin,4.21
+Cleveland,Portland,2.5
+Cleveland,Charlotte,1.37
+Little Rock,Columbia,2.43
+Little Rock,Indianapolis,1.71
+Little Rock,Richmond,3.25
+Little Rock,Lexington,1.82
+Little Rock,Nashville,1.23
+Little Rock,St. Louis,0.95
+Little Rock,Seattle,7.03
+Little Rock,Miami,3.24
+Little Rock,Minneapolis,2.21
+Little Rock,Phoenix,4.27
+Little Rock,Boston,4.85
+Little Rock,San Diego,5.36
+Little Rock,Houston,1.66
+Little Rock,Austin,1.52
+Little Rock,Portland,5.11
+Little Rock,Charlotte,2.47
+Birmingham,Columbia,1.25
+Birmingham,Indianapolis,1.35
+Birmingham,Richmond,2.19
+Birmingham,Lexington,1.09
+Birmingham,Nashville,0.57
+Birmingham,St. Louis,1.32
+Birmingham,Seattle,8.22
+Birmingham,Miami,2.19
+Birmingham,Minneapolis,2.83
+Birmingham,Phoenix,5.44
+Birmingham,Boston,3.88
+Birmingham,San Diego,6.53
+Birmingham,Houston,0.58
+Birmingham,Austin,2.46
+Birmingham,Portland,4.17
+Birmingham,Charlotte,1.34
+Charleston,Columbia,0.35
+Charleston,Indianapolis,2.01
+Charleston,Richmond,1.16
+Charleston,Lexington,1.5
+Charleston,Nashville,1.64
+Charleston,St. Louis,2.54
+Charleston,Seattle,9.66
+Charleston,Miami,1.51
+Charleston,Minneapolis,3.88
+Charleston,Phoenix,6.92
+Charleston,Boston,2.8
+Charleston,San Diego,8.0
+Charleston,Houston,1.22
+Charleston,Austin,3.87
+Charleston,Portland,3.13
+Charleston,Charlotte,0.55
+Atlanta,Columbia,0.73
+Atlanta,Indianapolis,1.35
+Atlanta,Richmond,1.71
+Atlanta,Lexington,0.92
+Atlanta,Nashville,0.72
+Atlanta,St. Louis,1.62
+Atlanta,Seattle,8.68
+Atlanta,Miami,1.94
+Atlanta,Minneapolis,3.07
+Atlanta,Phoenix,5.95
+Atlanta,Boston,3.41
+Atlanta,San Diego,7.04
+Atlanta,Houston,0.58
+Atlanta,Austin,2.96
+Atlanta,Portland,3.72
+Atlanta,Charlotte,0.83
+Dallas,Columbia,3.4
+Dallas,Indianapolis,2.73
+Dallas,Richmond,4.28
+Dallas,Lexington,2.87
+Dallas,Nashville,2.27
+Dallas,St. Louis,1.89
+Dallas,Seattle,6.36
+Dallas,Miami,3.87
+Dallas,Minneapolis,2.72
+Dallas,Phoenix,3.3
+Dallas,Boston,5.89
+Dallas,San Diego,4.38
+Dallas,Houston,2.47
+Dallas,Austin,0.58
+Dallas,Portland,6.16
+Dallas,Charlotte,3.47
+Denver,Columbia,5.28
+Denver,Indianapolis,4.03
+Denver,Richmond,5.92
+Denver,Lexington,4.4
+Denver,Nashville,3.97
+Denver,St. Louis,3.17
+Denver,Seattle,4.12
+Denver,Miami,6.1
+Denver,Minneapolis,2.74
+Denver,Phoenix,2.05
+Denver,Boston,7.29
+Denver,San Diego,3.03
+Denver,Houston,4.57
+Denver,Austin,2.55
+Denver,Portland,7.49
+Denver,Charlotte,5.27
